@@ -1,0 +1,7 @@
+echo "# SIGN-IN-SIGN-UP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sahebaapatneyy/SIGN-IN-SIGN-UP.git
+git push -u origin main
